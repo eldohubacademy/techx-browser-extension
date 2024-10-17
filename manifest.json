@@ -1,5 +1,6 @@
 {
   "manifest_version": 3, 
+  "name":"tech x ext",
   "version": "1.0",
   "description": "A simple Chrome extension",
   "action": {
